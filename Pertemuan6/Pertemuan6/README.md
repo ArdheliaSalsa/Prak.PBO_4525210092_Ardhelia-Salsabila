@@ -21,10 +21,10 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Moveable.java](code%20sebelum%20Moveable.java%2006.png)
+<img width="989" height="447" alt="code sebelum Moveable java 06" src="https://github.com/user-attachments/assets/bcdcbb3e-507f-465d-8afe-1067273aa7b3" />
 
 * **After**:
-![Kode sesudah Moveable.java](code%20sesudah%20Moveable.java%2006.png)
+<img width="691" height="490" alt="code sesudah Moveable java 06" src="https://github.com/user-attachments/assets/5daacddd-1d3f-430f-9f12-cdb6927e5f52" />
 
 ### 1.2. File: `Fuelable.java`
 **Penjelasan Kode:**
@@ -34,10 +34,11 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Fuelable.java](code%20sebelum%20fuelable.java%2006.png)
+<img width="706" height="314" alt="code sebelum fuelable java 06" src="https://github.com/user-attachments/assets/69f52182-17d5-4903-ae7b-807312d1b2da" />
+
 
 * **After**:
-![Kode sesudah Fuelable.java](code%20sesudah%20Fuelable.java%2006.png)
+<img width="686" height="293" alt="code sesudah Fuelable java 06" src="https://github.com/user-attachments/assets/a327d60f-3a7e-4780-a7e1-b7c30a4d35ae" />
 
 ### 1.3. File: `TipeBahanBakar.java`
 **Penjelasan Kode:**
@@ -47,10 +48,10 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum TipeBahanBakar.java](code%20sebelum%20TipeBahanBakar.java%2006.png)
+<img width="1206" height="749" alt="code sebelum TipeBahanBakar java 06" src="https://github.com/user-attachments/assets/33915a96-bb21-478b-8abd-c7b30d705a25" />
 
 * **After**:
-![Kode sesudah TipeBahanBakar.java](Code%20sesudah%20TipeBahanBakar.java%2006.png)
+<img width="1182" height="807" alt="Code sesudah TipeBahanBakar java 06" src="https://github.com/user-attachments/assets/2ad0826d-ab62-4582-88f7-90b7acce91bf" />
 
 ### 1.4. File: `Kendaraan.java`
 **Penjelasan Kode:**
@@ -60,10 +61,10 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Kendaraan.java](code%20sebelum%20Kendaraan.java%2006.png)
+<img width="1072" height="563" alt="code sebelum Kendaraan java 06" src="https://github.com/user-attachments/assets/89650144-7988-403e-8b98-b72423f60d75" />
 
 * **After**:
-![Kode sesudah Kendaraan.java](code%20sesudah%20Kendaraan.java%2006.png)
+<img width="1071" height="532" alt="code sesudah Kendaraan java 06" src="https://github.com/user-attachments/assets/c6aa8002-c380-4b8a-8015-c61f12b02f81" />
 
 ### 1.5. File: `Mobil.java`
 **Penjelasan Kode:**
@@ -73,10 +74,10 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Mobil.java](code%20sebelum%20Mobil.java%2006.png)
+<img width="781" height="749" alt="code sebelum Mobil java 06" src="https://github.com/user-attachments/assets/dfb3cb2d-ce6b-49a6-89f2-797e23765eb3" />
 
 * **After**:
-![Kode sesudah Mobil.java](code%20sesudah%20Mobil.java%2006.png)
+<img width="870" height="1039" alt="code sesudah Mobil java 06" src="https://github.com/user-attachments/assets/ea419ba7-ad40-4b82-875a-ae6804223787" />
 
 ### 1.6. File: `Sepeda.java`
 **Penjelasan Kode:**
@@ -86,7 +87,7 @@
 **Bukti Kode:**
 
 * **After**:
-![Kode sesudah Sepeda.java](Code%20sesudah%20Sepeda.java%2006.png)
+<img width="690" height="470" alt="Code sesudah Sepeda java 06" src="https://github.com/user-attachments/assets/fc41eafe-3e69-47ea-86c5-c8de927f6d08" />
 
 ### 1.7. File: `Main.java`
 **Penjelasan Kode:**
@@ -96,10 +97,11 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Main.java](code%20sebelum%20main.java%2006.png)
+<img width="1188" height="964" alt="code sebelum main java 06" src="https://github.com/user-attachments/assets/26ae6615-29e2-4a25-aea2-e3199e2504f9" />
+
 
 * **After**:
-![Kode sesudah Main.java](code%20sesudah%20Main.java%2006.png)
+<img width="879" height="863" alt="code sesudah Main java 06" src="https://github.com/user-attachments/assets/bfd625cb-4665-4ee5-8467-9c69c5ef7a69" />
 
 ---
 
@@ -113,14 +115,12 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum Abstraksi.php](code%20sebelum%20Abstraksi.php%2006.png)
+<img width="292" height="984" alt="code sebelum Abstraksi php 06" src="https://github.com/user-attachments/assets/53cf8fbc-67e5-471e-b50a-ffa16daba718" />
 
 * **After**:
-![Kode sesudah Abstraksi.php bagian 1](code%20sesudah%20abstraksi.php%2006-1.png)
-
-![Kode sesudah Abstraksi.php bagian 2](code%20sesudah%20abstraksi.php%2006-2.png)
-
-![Kode sesudah Abstraksi.php bagian 3](code%20sesudah%20abstraksi%2006-3.png)
+<img width="438" height="1085" alt="code sesudah abstraksi php 06-1" src="https://github.com/user-attachments/assets/e88f0bbf-b788-48a5-86b8-feb8d6bbc9e1" />
+<img width="483" height="1056" alt="code sesudah abstraksi php 06-2" src="https://github.com/user-attachments/assets/3c4f16ae-d463-40ca-8cd6-02d306813e7e" />
+<img width="417" height="195" alt="code sesudah abstraksi 06-3" src="https://github.com/user-attachments/assets/560d3c4f-fd27-45ab-ad0f-350cb9db9f6e" />
 
 ### 2.2. File: `main.php`
 **Penjelasan Kode:**
@@ -130,10 +130,15 @@
 **Bukti Kode:**
 
 * **Before**:
-![Kode sebelum main.php](code%20sebelum%20main.php%2006.png)
+<img width="800" height="921" alt="code sebelum main php 06" src="https://github.com/user-attachments/assets/b5e84689-c8dd-44d0-9bd5-a031ea2b74c9" />
 
 * **After**:
-![Kode sesudah main.php](code%20sesudah%20main.php%2006.png)
+<img width="795" height="893" alt="code sesudah main php 06" src="https://github.com/user-attachments/assets/3f9caef1-833b-4e60-986f-d91b02135402" />
+
+
+## Output
+<img width="1600" height="900" alt="Output main java 06" src="https://github.com/user-attachments/assets/3e0514b3-8165-4414-b662-8f4787e28eee" />
+<img width="1600" height="900" alt="Output main php 06" src="https://github.com/user-attachments/assets/d833bab9-8c74-4331-9355-5585e945a0e0" />
 
 ---
 
