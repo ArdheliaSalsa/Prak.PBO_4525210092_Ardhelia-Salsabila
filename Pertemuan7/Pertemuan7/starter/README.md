@@ -6,8 +6,8 @@
 | **NPM** | 4525210092 |
 | **Kelas** | A |
 | **Mata Kuliah** | Pemrograman Berbasis Objek (PBO) |
-| **Pertemuan** | 7 - Komposisi dan Agregasi (Sistem Perpustakaan) |
-| **Tanggal** | [Tanggal Praktikum] |
+| **Pertemuan** | 7 - Relasi Objek dan UML Class Diagram |
+| **Tanggal** | 15 Oktober 2026 |
 
 ---
 
@@ -19,10 +19,12 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Kesalahan kompilasi)*: `getBab()` mengembalikan list internal apa adanya (`return this.bab;`), sehingga `buku.getBab().clear()` dari luar berhasil mengosongkan daftar bab.
-![SS Before Buku.java](screenshot/before-Buku.png)
+<img width="402" height="957" alt="sebelum buku java 07" src="https://github.com/user-attachments/assets/78753258-10d1-4022-a40f-3655441d5d71" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*: `getBab()` memakai `List.copyOf(...)`, sehingga percobaan mengubah dari luar ditolak.
-![SS After Buku.java](screenshot/after-Buku.png)
+<img width="472" height="947" alt="sesudah buku java 07" src="https://github.com/user-attachments/assets/aac1a67c-1150-48d4-a1bf-46255e0fbe93" />
+
 
 ### 1.2. File: `Jurusan.java`
 **Penjelasan Kode:**
@@ -30,10 +32,12 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Kesalahan kompilasi)*:
-![SS Before Jurusan.java](screenshot/before-Jurusan.png)
+<img width="1098" height="1058" alt="sebelum jurusan java 07" src="https://github.com/user-attachments/assets/927bf158-9213-4584-9bb5-32396e3e2ced" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
-![SS After Jurusan.java](screenshot/after-Jurusan.png)
+<img width="932" height="952" alt="sesudah jurusan java 07" src="https://github.com/user-attachments/assets/c0223a45-441f-4766-a737-32133265c3a8" />
+
 
 ### 1.3. File: `PerpustakaanService.java`
 **Penjelasan Kode:**
@@ -41,10 +45,11 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Kesalahan kompilasi)*:
-![SS Before PerpustakaanService.java](screenshot/before-PerpustakaanService.png)
+<img width="905" height="535" alt="sebelum perpustakaan java 07" src="https://github.com/user-attachments/assets/48a58cfe-762d-4e28-b8ca-c23158b21bb6" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*: kompilasi berhasil tanpa error.
-![SS After PerpustakaanService.java](screenshot/after-PerpustakaanService.png)
+<img width="1216" height="972" alt="sesudah Perpus java 07" src="https://github.com/user-attachments/assets/fb1279f2-415f-4350-a513-9bbd3d0ce6a4" />
 
 ### 1.4. File: `Main.java`
 **Penjelasan Kode:**
@@ -52,14 +57,16 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Kesalahan kompilasi)*:
-![SS Before Main.java](screenshot/before-Main.png)
+<img width="986" height="843" alt="sebelum main java 07" src="https://github.com/user-attachments/assets/8bfea6ec-6dec-41ff-9a66-a8fce50e7429" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
-![SS After Main.java](screenshot/after-Main.png)
+<img width="1171" height="1027" alt="sesudah Main java 07" src="https://github.com/user-attachments/assets/afd37517-4dd8-4d18-bd46-31ccba400f88" />
+
 
 ### Output
 **Output Program:**
-![Output Java](screenshot/output-java.png)
+<img width="831" height="403" alt="Output main java 07" src="https://github.com/user-attachments/assets/852a604c-ea06-402c-abd0-ac43362defeb" />
 
 ---
 
@@ -71,10 +78,13 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Galat logika)*:
-![SS Before relasi.php](screenshot/before-relasi.png)
+<img width="597" height="1070" alt="sebelum relas php 07-1" src="https://github.com/user-attachments/assets/183cd634-cac0-4fc1-9789-f751c89f6c8e" />
+<img width="632" height="840" alt="sebelum relasi php 07-2" src="https://github.com/user-attachments/assets/4e5dc235-4d0e-4801-acee-b64fa8c80a4e" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*: tidak ada galat sintaks.
-![SS After relasi.php](screenshot/after-relasi.png)
+<img width="587" height="1065" alt="sesudah relasi php  07-1" src="https://github.com/user-attachments/assets/a42325b0-4b2e-48f4-831e-342d03d7e2e8" />
+<img width="523" height="955" alt="sesudah relasi php 07-2" src="https://github.com/user-attachments/assets/907abe3e-2e96-4937-96a1-d53e81ffd78d" />
 
 ### 2.2. File: `main.php`
 **Penjelasan Kode:**
@@ -82,16 +92,32 @@
 
 **Bukti Eksekusi (Screenshot):**
 * **Before** *(Kondisi awal / Galat logika)*:
-![SS Before main.php](screenshot/before-main-php.png)
+<img width="623" height="506" alt="sebelum main php 07" src="https://github.com/user-attachments/assets/2647d1df-9b96-4760-9aec-289113782a73" />
+
 
 * **After** *(Kondisi akhir / Eksekusi berhasil)*:
-![SS After main.php](screenshot/after-main-php.png)
+<img width="755" height="603" alt="sesudah main php 07" src="https://github.com/user-attachments/assets/11540415-feb4-47b2-9415-b42dc13dc6b3" />
+
+
 
 ### Output
 **Output Program:**
-![Output PHP](screenshot/output-php.png)
+<img width="1157" height="283" alt="output main php 07" src="https://github.com/user-attachments/assets/a4ad6b2a-31e7-4078-a61a-b3282e76ae7a" />
 
----
+### uml
+* **Before** *(Kondisi awal / Galat logika)*:
+<img width="605" height="951" alt="sebelum uml 07" src="https://github.com/user-attachments/assets/ade58b84-2c1c-4871-8adc-40c27e0fa023" />
+
+* **After** *(Kondisi akhir / Eksekusi berhasil)*:
+<img width="590" height="1067" alt="sesudah uml 07" src="https://github.com/user-attachments/assets/45db5519-19b0-40ab-8c83-098b236d6155" />
+
+### Output
+* **Before** *(Kondisi awal / Galat logika)*:
+<img width="760" height="437" alt="Output uml sebelum 07" src="https://github.com/user-attachments/assets/c1c0ff5b-721e-48eb-87c2-31f2e0af1547" />
+
+* **After** *(Kondisi akhir / Eksekusi berhasil)*:
+<img width="722" height="715" alt="output uml sesudah 07" src="https://github.com/user-attachments/assets/3dae0bb6-fd6a-41db-8d92-8e99cbfbb803" />
+
 
 ## 3. Kesimpulan
 > **Komposisi** dan **agregasi** sama-sama berarti "memiliki", tetapi berbeda pada siapa yang membuat objek bagian dan apa yang terjadi setelah induknya hilang. Pada komposisi (`Buku` dan `Bab`), bagian dibuat di dalam induk, tidak bisa dibuat dari luar, dan tidak bermakna tanpa induknya; karena itu `getBab()` harus mengembalikan salinan tak-berubah. Pada agregasi (`Jurusan` dan `Mahasiswa`), bagian dibuat di luar lalu dimasukkan, dan tetap hidup walau dikeluarkan atau induknya dibubarkan. Di Java, komposisi dipaksa oleh compiler lewat nested class dan constructor `private`, sedangkan di PHP hanya dijaga lewat konvensi dan `readonly`. Keduanya dimodelkan di UML dengan simbol berlian hitam (`*--`) untuk komposisi dan berlian putih (`o--`) untuk agregasi.
